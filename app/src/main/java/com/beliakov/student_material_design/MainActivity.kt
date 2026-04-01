@@ -113,7 +113,7 @@ fun StudentApp() {
 @Preview
 @Composable
 fun StudentPreview(){
-    Student_Material_DesignTheme(darkTheme = false) {
+    Student_Material_DesignTheme(darkTheme = true) {
         StudentApp()
     }
 }
