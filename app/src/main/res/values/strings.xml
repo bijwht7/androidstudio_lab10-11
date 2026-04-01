@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Student List</string>
+    <string name="student1">Какашкин Никита</string>
+    <string name="student2">Пришельцева Арина</string>
+    <string name="student3">Пикми Диана</string>
+    <string name="student4">Шмаль Иван</string>
+    <string name="student5">Кокаинов Дмитрий</string>
+    <string name="student6">Вагина Саша</string>
+    <string name="student7">Чуркина Динара</string>
+    <string name="student8">Подстилкин Гриша</string>
+    <string name="student9">Героинов Кирилл</string>
+    <string name="student10">Объеткова Василиса</string>
+
+    <string name="student1_desc">Ест какашки и какашки ему в кармашки</string>
+    <string name="student2_desc">Ее украли пришельцы на опыты, на земле ее клон.помянем.</string>
+    <string name="student3_desc">Розовая девочка, нетакуся, тарелочница, серая мышка</string>
+    <string name="student4_desc">Футболист... пьет пиво(его будущее на заводе)</string>
+    <string name="student5_desc">Переедет в Америку и сторчится под мостов(фамилия вещая)</string>
+    <string name="student6_desc">Ходит на вписки, делает ритуалы с кровью девствениц(иногда использует свою)</string>
+    <string name="student7_desc">Будьте аккуратны, взрывоопасна</string>
+    <string name="student8_desc">Дырявый</string>
+    <string name="student9_desc">Семья его бросила, связался не с той компанией, умер(фамилия говорит за него)</string>
+    <string name="student10_desc">Моя прекрасная, невероятная, шикарная, бесподобная и кушает объедки</string>
+
+    <string name="years_old">%d лет</string>
+</resources>
